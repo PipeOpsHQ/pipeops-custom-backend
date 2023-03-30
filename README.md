@@ -19,7 +19,7 @@ Customize the default backend for an NGINX Ingress Controller on your kubernetes
 
 [LIVE Preview - 404 status code](https://billowy-in2-pipeops-3d5d08ea.pipeops.app)
 
-[LIVE Preview - 503 status code](https://billowy-insect-pipeops-3d5d08ea.pipeops.app)
+[LIVE Preview - 503 status code](https://filthy-sign-pipeops-981f3e30.pipeops.app)
 
 ## Installation via Helm
 You can use the `defaultBackend` property of the [ingress-nginx](https://github.com/kubernetes/ingress-nginx/tree/main/charts/ingress-nginx) helm chart like this:
